@@ -41,12 +41,12 @@ I am deeply dedicated to creating user-friendly web applications and continually
 <a href="https://vadym4che.tilda.ws/"><img alt="Tilda CMS" src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>  
 </div>
 <br>
-> <div align="center"><i>I've earned my own very first PC</i></div>  
-> <div align="center"><i>By working summer holidays in 2003</i></div>  
-> <div align="center"><i>I'm a 'web dev loco' (if you will) code-addict</i></div>  
-> <div align="center"><i>Devoted to development with JavaScript</i></div>  
-> <div align="center"><i>I'm experienced enough to exactly know</i></div>  
-> <div align="center"><i>Using DOCs, AI, Google and Stackoverflow</i></div>  
+<div align="center"><i>I've earned my own very first PC</i></div>  
+<div align="center"><i>By working summer holidays in 2003</i></div>  
+<div align="center"><i>I'm a 'web dev loco' (if you will) code-addict</i></div>  
+<div align="center"><i>Devoted to development with JavaScript</i></div>  
+<div align="center"><i>I'm experienced enough to exactly know</i></div>  
+<div align="center"><i>Using DOCs, AI, Google and Stackoverflow</i></div>  
 
 <hr>
 
