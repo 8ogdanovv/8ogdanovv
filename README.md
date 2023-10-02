@@ -7,9 +7,13 @@
 </div> -->
 
 <div align="center"><h1>Hi there 👋</h1></div>
+<hr>
 <div align="center"><h2>I am <a href="https://bit.ly/Full-5tack">Vadym Chervoniak</a></h2></div>
+<hr>
 <div align="center"><h3>a <a href="https://vadym4che.tilda.ws/">Full-5tack developer</a></h3></div>
+<hr>
 <div align="center"><h4>&& <a href="https://vadym4che.github.io/cv/">auto-biography-(č)oder</a></h4></div>
+<hr>
 
 <div align="center">
 My expertise includes
@@ -32,11 +36,11 @@ For me, it's not just a job but a calling that allows me to express my creativit
 We each have our own unique story to tell, and through the language of technology, we code our autobiographies, breathing life into our ideas on the digital canvas.  
 I am deeply dedicated to creating user-friendly web applications and continually enhancing my skills to stay ahead in this ever-evolving industry.  
 </div>
-
+<br>
 <div align="center">
 <a href="https://vadym4che.tilda.ws/"><img alt="Tilda CMS" src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>  
 </div>
-
+<br>
 <div align="center"><i>I've earned my own very first PC</i></div>  
 <div align="center"><i>By working summer holidays in 2003</i></div>  
 <div align="center"><i>I'm a 'web dev loco' (if you will) code-addict</i></div>  
