@@ -1,9 +1,9 @@
-<center>
+<div align="center">
 # Hi there 👋
 ## I am [Vadym Chervoniak](https://bit.ly/Full-5tack)
 ### a [Full-5tack developer](https://vadym4che.tilda.ws/)
 #### && [auto-biography-(č)oder](https://vadym4che.github.io/cv/)
-</center>
+</div>
 My expertise includes ![HTML](https://img.shields.io/badge/HTML-green), ![CSS](https://img.shields.io/badge/CSS-green), ![JavaScript](https://img.shields.io/badge/JavaScript-green), ![React](https://img.shields.io/badge/React-green), ![Vue](https://img.shields.io/badge/Vue-green), ![Node.js](https://img.shields.io/badge/Node.js-green), various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
 \*  \*  \*  \*
 As individuals, we are all born developers, constantly shaping our neural networks as we journey through life.  
@@ -15,12 +15,14 @@ I am deeply dedicated to creating user-friendly web applications and continually
 
 [![Tilda CMS CV](https://github.com/vadym4che/cv/blob/main/public/favicon.png)](https://vadym4che.tilda.ws/)
 
+<div align="center">
 <i>I've earned my own very first PC</i>  
 <i>By working summer holidays in 2003</i>  
 <i>I'm a 'web dev loco' (if you will) code-addict</i>  
 <i>Devoted to development with JavaScript</i>  
 <i>I'm experienced enough to exactly know</i>  
 <i>Using DOCs, AI, Google and Stackoverflow</i>  
+</div>
 
 <hr>
 
