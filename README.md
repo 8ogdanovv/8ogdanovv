@@ -4,11 +4,15 @@
 <div align="center"><h4>&& <a href="https://vadym4che.github.io/cv/">auto-biography-(č)oder</a></h4></div>
 
 <div align="center">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
 </div>
 
 <div align="center">
-My expertise includes <img alt="HTML" src="https://img.shields.io/badge/HTML-green">, ![CSS](https://img.shields.io/badge/CSS-green), ![JavaScript](https://img.shields.io/badge/JavaScript-green), ![React](https://img.shields.io/badge/React-green), ![Vue](https://img.shields.io/badge/Vue-green), ![Node.js](https://img.shields.io/badge/Node.js-green), various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
+My expertise includes <sub><img alt="HTML" src="https://img.shields.io/badge/HTML-green"></sub>, <sub><img alt="CSS" src="https://img.shields.io/badge/CSS-green"></sub>, <sub><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-green"></sub>, <sub><img alt="React" src="https://img.shields.io/badge/React-green"></sub>, <sub><img alt="Vue" src="https://img.shields.io/badge/Vue-green"></sub>, <sub><img alt="Node.js" src="https://img.shields.io/badge/Node.js-green"></sub>, various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
 <div>
 \*  \*  \*  \*
 <div align="center">
