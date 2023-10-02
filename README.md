@@ -4,7 +4,11 @@
 <div align="center"><h4>&& <a href="https://vadym4che.github.io/cv/">auto-biography-(č)oder</a></h4></div>
 
 <div align="center">
-My expertise includes ![HTML](https://img.shields.io/badge/HTML-green), ![CSS](https://img.shields.io/badge/CSS-green), ![JavaScript](https://img.shields.io/badge/JavaScript-green), ![React](https://img.shields.io/badge/React-green), ![Vue](https://img.shields.io/badge/Vue-green), ![Node.js](https://img.shields.io/badge/Node.js-green), various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
+
+</div>
+
+<div align="center">
+My expertise includes <img alt="HTML" src="https://img.shields.io/badge/HTML-green">, ![CSS](https://img.shields.io/badge/CSS-green), ![JavaScript](https://img.shields.io/badge/JavaScript-green), ![React](https://img.shields.io/badge/React-green), ![Vue](https://img.shields.io/badge/Vue-green), ![Node.js](https://img.shields.io/badge/Node.js-green), various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
 <div>
 \*  \*  \*  \*
 <div align="center">
