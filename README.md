@@ -27,7 +27,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 </div>
 
 <div align="center">
-<a href="https://vadym4che.tilda.ws/"><img alt="Tilda CMS src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>
+<a href="https://vadym4che.tilda.ws/"><img alt="Tilda CMS" src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>
 </div>
 
 <div align="center"><i>I've earned my own very first PC</i></div>  
