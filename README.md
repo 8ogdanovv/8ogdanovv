@@ -1,13 +1,13 @@
 # Hi there 👋
-# [I am Vadym Chervoniak, a Full-stack developer](https://bit.ly/Full-5tack)
-# auto-biography-(č)oding
-
+# [I am Vadym Chervoniak](https://bit.ly/Full-5tack)
+# [Full-stack developer](https://vadym4che.tilda.ws/)
+# [auto-biography-(č)oder](https://vadym4che.github.io/cv/)
 My expertise includes ![HTML](https://img.shields.io/badge/HTML-green), ![CSS](https://img.shields.io/badge/CSS-green), ![JavaScript](https://img.shields.io/badge/JavaScript-green), ![React](https://img.shields.io/badge/React-green), ![Vue](https://img.shields.io/badge/Vue-green), ![Node.js](https://img.shields.io/badge/Node.js-green), various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
-  
+****
 As individuals, we are all born developers, constantly shaping our neural networks as we journey through life.  
 Some of us, including myself, have chosen to transform this passion for development into a fulfilling career in web development.  
 For me, it's not just a job but a calling that allows me to express my creativity and make a meaningful impact through technology.
-  
+****
 We each have our own unique story to tell, and through the language of technology, we code our autobiographies, breathing life into our ideas on the digital canvas.  
 I am deeply dedicated to creating user-friendly web applications and continually enhancing my skills to stay ahead in this ever-evolving industry.
 
@@ -22,7 +22,7 @@ Using DOCs, AI, Google and Stackoverflow
 
 <hr>
 
-[![CV](https://img.shields.io/badge/CV-vadym4che-green)](https://vadym4che.github.io/cv/)
+[![CV](https://img.shields.io/badge/CV-vadym4che-green)](https://bit.ly/Full-5tack)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/)
 [![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/)
 [![Email](https://img.shields.io/badge/Email-vadym4che%40gmail.com-green)](mailto:vadym4che@gmail.com)
