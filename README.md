@@ -6,13 +6,13 @@
 </picture>
 </div> -->
 
-<div align="center"><h1 style="border-bottom: 0.5px solid red; width: 20%; margin: 0 auto;">Hi there 👋</h1></div>
+<div align="center"><h3>Hi there 👋</h3></div>
 <hr>
-<div align="center"><h2>I am <a href="https://bit.ly/Full-5tack">Vadym Chervoniak</a></h2></div>
+<div align="center"><h3>I am <a href="https://bit.ly/Full-5tack">Vadym Chervoniak</a></h3></div>
 <hr>
 <div align="center"><h3>a <a href="https://vadym4che.tilda.ws/">Full-5tack developer</a></h3></div>
 <hr>
-<div align="center"><h4>&& <a href="https://vadym4che.github.io/cv/">auto-biography-(č)oder</a></h4></div>
+<div align="center"><h3>&& <a href="https://vadym4che.github.io/cv/">auto-biography-(č)oder</a></h3></div>
 <hr>
 
 <div align="center">
@@ -41,12 +41,12 @@ I am deeply dedicated to creating user-friendly web applications and continually
 <a href="https://vadym4che.tilda.ws/"><img alt="Tilda CMS" src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>  
 </div>
 <br>
-<div align="center"><i>I've earned my own very first PC</i></div>  
-<div align="center"><i>By working summer holidays in 2003</i></div>  
-<div align="center"><i>I'm a 'web dev loco' (if you will) code-addict</i></div>  
-<div align="center"><i>Devoted to development with JavaScript</i></div>  
-<div align="center"><i>I'm experienced enough to exactly know</i></div>  
-<div align="center"><i>Using DOCs, AI, Google and Stackoverflow</i></div>  
+> <div align="center"><i>I've earned my own very first PC</i></div>  
+> <div align="center"><i>By working summer holidays in 2003</i></div>  
+> <div align="center"><i>I'm a 'web dev loco' (if you will) code-addict</i></div>  
+> <div align="center"><i>Devoted to development with JavaScript</i></div>  
+> <div align="center"><i>I'm experienced enough to exactly know</i></div>  
+> <div align="center"><i>Using DOCs, AI, Google and Stackoverflow</i></div>  
 
 <hr>
 
