@@ -1,5 +1,7 @@
-# Hi there 👋 Auto-biography-(č)oding
-# ✨ [I am Vadym Chervoniak, a Full-stack developer based in Ukraine.](https://bit.ly/Full-5tack) ✨
+# Hi there 👋
+# [I am Vadym Chervoniak, a Full-stack developer](https://bit.ly/Full-5tack)
+# auto-biography-(č)oding
+
 My expertise includes ![HTML](https://img.shields.io/badge/HTML-green), ![CSS](https://img.shields.io/badge/CSS-green), ![JavaScript](https://img.shields.io/badge/JavaScript-green), ![React](https://img.shields.io/badge/React-green), ![Vue](https://img.shields.io/badge/Vue-green), ![Node.js](https://img.shields.io/badge/Node.js-green), various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
   
 As individuals, we are all born developers, constantly shaping our neural networks as we journey through life.  
@@ -43,4 +45,4 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-[![TildaCV](https://github.com/vadym4che/vadym4che/blob/cover-picture.png)](https://vadym4che.tilda.ws/)
+[![TildaCV](https://github.com/vadym4che/vadym4che/blob/main/cover-picture.png)](https://vadym4che.tilda.ws/)
