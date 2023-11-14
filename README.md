@@ -1,14 +1,8 @@
-<!-- <div align="center">
-<picture width="50">
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
-</div> -->
+<h1 style="visibility: hidden !important; opacity: 0 !important; display: none !important;">ЧЕРВОНЯК ВАДИМ ВІКТОРОВИЧ</h1>
 
 <div align="center"><h3>Hi there 👋</h3></div>
 <hr>
-<div align="center"><h3>I am <a href="https://bit.ly/Full-5tack">Vadym Chervoniak</a></h3></div>
+<div align="center"><h3>I am <a href="https://bit.ly/Ful1-5tack">Vadym Chervoniak</a></h3></div>
 <hr>
 <div align="center"><h3>a <a href="https://vadym4che.tilda.ws/">Full-5tack developer</a></h3></div>
 <hr>
