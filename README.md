@@ -32,7 +32,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 </div>
 <br>
 <div align="center">
-<a href="https://vadym4che.tilda.ws/"><img alt="Tilda CMS" src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>  
+<a href="https://vadym4che.github.io/Ful1-5tack/"><img alt="Tilda CMS" src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>  
 </div>
 <br>
 <div align="center"><i>I've earned my own very first PC</i></div>  
@@ -67,4 +67,4 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-[![TildaCV](https://github.com/vadym4che/vadym4che/blob/main/cover-picture.png)](https://vadym4che.tilda.ws/)
+[![DigitalCV](https://github.com/vadym4che/vadym4che/blob/main/cover-picture.png)](https://vadym4che.github.io/Ful1-5tack/)
