@@ -1,23 +1,25 @@
-<!-- <h1 style="visibility: hidden !important; opacity: 0 !important; display: none !important;">ЧЕРВОНЯК ВАДИМ ВІКТОРОВИЧ</h1> -->
-
-<div align="center"><h3>Hi there 👋</h3></div>
-<hr>
-<div align="center"><h3>I am <a href="https://bit.ly/Ful1-5tack">Vadym Chervoniak</a></h3></div>
-<hr>
-<div align="center"><h3>a <a href="https://vadym4che.tilda.ws/">Full-5tack developer</a></h3></div>
-<hr>
-<div align="center"><h3>&& <a href="https://vadym4che.github.io/cv/">auto-biography-(č)oder</a></h3></div>
-<hr>
 
 <div align="center">
-My expertise includes
+<h1 style="background-image: './cover.png';">
+Hi there 👋! I am <a href="https://vadym4che.github.io/Ful1-5tack">Vadym Chervoniak</a>
+<!-- a <a href="https://vadym4che.github.io/Ful1-5tack">Full-5tack developer</a>
+&& <a href="https://vadym4che.tilda.ws/">auto-biography-(č)oder</a> -->
+</h1>
+</div>
+
+<!-- <hr> -->
+
+<div align="center">
+<!-- My expertise includes
 <sub><sub><img alt="HTML" src="https://img.shields.io/badge/HTML-green"></sub></sub>,
 <sub><sub><img alt="CSS" src="https://img.shields.io/badge/CSS-green"></sub></sub>,
 <sub><sub><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-green"></sub></sub>,
 <sub><sub><img alt="React" src="https://img.shields.io/badge/React-green"></sub></sub>,
 <sub><sub><img alt="Vue" src="https://img.shields.io/badge/Vue-green"></sub></sub>,
 <sub><sub><img alt="Node.js" src="https://img.shields.io/badge/Node.js-green"></sub></sub>,
-various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
+various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions. -->
+<!-- I am Vadym Chervoniak, -->
+a Full-stack developer based in Ukraine. My expertise includes HTML, CSS, JavaScript, React, Vue, Node.js, various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
 <div>
 *  *  *  *
 <div align="center">
@@ -32,7 +34,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 </div>
 <br>
 <div align="center">
-<a href="https://vadym4che.github.io/Ful1-5tack/"><img alt="Tilda CMS" src="https://github.com/vadym4che/cv/blob/main/public/favicon.png"></a>  
+<a href="https://vadym4che.github.io/Ful1-5tack/"><img alt="my own CH logo" src="./logo.png"></a>  
 </div>
 <br>
 <div align="center"><i>I've earned my own very first PC</i></div>  
@@ -44,12 +46,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 
 <hr>
 
-[![CV](https://img.shields.io/badge/CV-vadym4che-green)](https://bit.ly/Full-5tack)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/)
-[![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/)
-[![Email](https://img.shields.io/badge/Email-vadym4che%40gmail.com-green)](mailto:vadym4che@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-vadym4che-green)](https://t.me/vadym4che)
-[![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
+[![CV](https://img.shields.io/badge/CV-vadym4che-green)](https://bit.ly/Full-5tack)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/) --><!-- [![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/) --> [![Email](https://img.shields.io/badge/Email-vadym4che%40gmail.com-green)](mailto:vadym4che@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-vadym4che-green)](https://t.me/vadym4che) [![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
 
 <!--
 **vadym4che/vadym4che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -67,4 +64,7 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-[![DigitalCV](https://github.com/vadym4che/vadym4che/blob/main/cover-picture.png)](https://vadym4che.github.io/Ful1-5tack/)
+
+<!-- ![Vadym4che's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadym4che&show_icons=true&theme=synthwave) -->
+
+[![DigitalCV](./cover.png)](https://vadym4che.github.io/Ful1-5tack/)
