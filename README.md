@@ -3,11 +3,9 @@
 <a href="https://stand-with-ukraine.pp.ua/" target="_blank">
 <img src="./code.gif" alt="Stand With Ukraine">
 </a>
-<h1 style="background-image: './cover.png';">
+<!-- <h1 style="background-image: './cover.png';">
 Hi there 👋! I am <a href="https://vadym4che.github.io/Ful1-5tack">Vadym Chervoniak</a>
-<!-- a <a href="https://vadym4che.github.io/Ful1-5tack">Full-5tack developer</a>
-&& <a href="https://vadym4che.tilda.ws/">auto-biography-(č)oder</a> -->
-</h1>
+</h1> -->
 </div>
 
 <!-- <hr> -->
@@ -22,7 +20,7 @@ Hi there 👋! I am <a href="https://vadym4che.github.io/Ful1-5tack">Vadym Cherv
 <sub><sub><img alt="Node.js" src="https://img.shields.io/badge/Node.js-green"></sub></sub>,
 various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions. -->
 <!-- I am Vadym Chervoniak, -->
-a Full-stack developer based in Ukraine. My expertise includes HTML, CSS, JavaScript, React, Vue, Node.js, various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
+I am Vadym Chervoniak a Full-stack developer based in Ukraine. My expertise includes HTML, CSS, JavaScript, React, Vue, Node.js, various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
 <div>
 *  *  *  *
 <div align="center">
