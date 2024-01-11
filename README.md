@@ -1,5 +1,8 @@
 
 <div align="center">
+<a href="https://stand-with-ukraine.pp.ua/" target="_blank">
+<img src="./code.gif" alt="Stand With Ukraine">
+</a>
 <h1 style="background-image: './cover.png';">
 Hi there 👋! I am <a href="https://vadym4che.github.io/Ful1-5tack">Vadym Chervoniak</a>
 <!-- a <a href="https://vadym4che.github.io/Ful1-5tack">Full-5tack developer</a>

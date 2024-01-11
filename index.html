@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
+  <title>Vadym4[Č]He</title>
+  <style>
+    body {
+      font-family: 'Victor Mono', monospace;
+      color: #fff;
+    }
+    @keyframes coding {
+      0% { content: ' ' 'keep  [Č]oding'}
+      25% { content: ' ' ' .keep  (č)oding.'}
+      50% { content: ' ' ' ..keep  [Č]oding..'}
+      75% { content: ' ' ' ...keep  (č)oding...'}
+      100% { content: ' ' ' keep  [Č]oding'}
+    }
+    @keyframes colorize {
+      0% { text-shadow: 0 0 1rem hsl(0, 0%, 100%);}
+      25% { text-shadow: 0 0 1rem hsl(180, 100%, 50%);}
+      50% { text-shadow: 0 0 1rem hsl(300, 100%, 50%);}
+      75% { text-shadow: 0 0 1rem hsl(60, 100%, 50%);}
+      100% { text-shadow: 0 0 1rem hsl(0, 0%, 100%);}
+    }
+    .main {
+      width: 100%;
+      aspect-ratio: 1176 / 775;
+      height: auto;
+      background-image: url('./cover.png');
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      position: relative;
+      border-radius: 3px;
+      border: 1px solid transparent;
+      box-sizing: border-box;
+    }
+    .main .before {
+      position: absolute;
+      width: 100%;
+      font-size: 1.5rem;
+      text-align: center;
+      line-break: strict;
+      content: "";
+    }
+    .main::after {
+      position: absolute;
+      font-size: 1.25rem;
+      font-weight: 700;
+      top: 50%;
+      left: 50%;
+      transform: translate(calc(-50% + 0.25ch), -50%);
+      content: '...keep  (č)oding...';
+      text-shadow: 0 0 1rem hsl(0, 0%, 100%);
+      /* animation: coding 4s linear infinite, colorize 4s linear infinite; */
+      transition: all 1s;
+    }
+    .colorize {
+      /* animation: colorize 4s linear infinite; */
+      transition: all 1s;
+      text-shadow: 0 0 1rem hsl(0, 0%, 100%);
+    }
+    .hi {
+      font-size: 4rem;
+      font-style: italic;
+    }
+    #ukraine {
+      position: absolute;
+      bottom: 0;
+      margin: -1px 0;
+    }
+    .abc {
+      width: 10%;
+      position: absolute;
+      bottom: 27.5%;
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  </style>
+</head>
+<body>
+  <section class="main">
+    <h1 class="before">
+      <span class="hi">Hi there 👋!</span><br >I am <span class="colorize">Vadym Chervoniak</span>
+    </h1>
+    <img src="./logo.png" alt="abc" class="abc">
+    <img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg" alt="Stand With Ukraine" id="ukraine">
+  </section>
+</body>
+</html>
