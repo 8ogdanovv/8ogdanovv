@@ -4,7 +4,7 @@
 <img src="./code.gif" alt="Stand With Ukraine">
 </a>
 <!-- <h1 style="background-image: './cover.png';">
-Hi there 👋! I am <a href="https://vadym4che.github.io/Ful1-5tack">Vadym Chervoniak</a>
+Hi there 👋! I am <a href="https://vadym4che.github.io">Vadym Chervoniak</a>
 </h1> -->
 </div>
 
@@ -35,7 +35,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 </div>
 <br>
 <div align="center">
-<a href="https://vadym4che.github.io/Ful1-5tack/"><img alt="my own CH logo" src="./logo.png"></a>  
+<a href="https://vadym4che.github.io"><img alt="my own CH logo" src="./logo.png"></a>  
 </div>
 <br>
 <div align="center"><i>I've earned my own very first PC</i></div>  
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 
 <!-- ![Vadym4che's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadym4che&show_icons=true&theme=synthwave) -->
 
-[![DigitalCV](./cover.png)](https://vadym4che.github.io/Ful1-5tack/)
+[![DigitalCV](./cover.png)](https://vadym4che.github.io)
