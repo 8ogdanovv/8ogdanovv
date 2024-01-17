@@ -47,7 +47,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 
 <hr>
 
-[![CV](https://img.shields.io/badge/CV-vadym4che-green)](https://bit.ly/Full-5tack)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/) --><!-- [![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/) --> [![Email](https://img.shields.io/badge/Email-vadym4che%40gmail.com-green)](mailto:vadym4che@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-vadym4che-green)](https://t.me/vadym4che) [![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
+[![CV](https://img.shields.io/badge/CV-vadym4che-green)](https://bit.ly/2pdfCV)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/) --><!-- [![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/) --> [![Email](https://img.shields.io/badge/Email-vadym4che%40gmail.com-green)](mailto:vadym4che@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-vadym4che-green)](https://t.me/vadym4che) [![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
 
 <!--
 **vadym4che/vadym4che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
