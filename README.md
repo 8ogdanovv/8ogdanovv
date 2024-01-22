@@ -20,7 +20,7 @@ Hi there 👋! I am <a href="https://vadym4che.github.io">Vadym Chervoniak</a>
 <sub><sub><img alt="Node.js" src="https://img.shields.io/badge/Node.js-green"></sub></sub>,
 various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions. -->
 <!-- I am Vadym Chervoniak, -->
-I am Vadym Chervoniak a Full-stack developer based in Ukraine. My expertise includes HTML, CSS, JavaScript, React, Vue, Node.js, various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
+I am Bogdanov Vadim a Full-stack developer based in Ukraine. My expertise includes HTML, CSS, JavaScript, React, Vue, Node.js, various databases, cloud computing, and integrating with different APIs, helping me to deliver complex web development solutions.
 <div>
 *  *  *  *
 <div align="center">
@@ -47,7 +47,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 
 <hr>
 
-[![CV](https://img.shields.io/badge/CV-vadym4che-green)](https://bit.ly/2pdfCV)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/) --><!-- [![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/) --> [![Email](https://img.shields.io/badge/Email-vadym4che%40gmail.com-green)](mailto:vadym4che@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-vadym4che-green)](https://t.me/vadym4che) [![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
+[![CV](https://img.shields.io/badge/CV-8ogdanovv-green)](https://bit.ly/2pdfCV)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/) --><!-- [![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/) --> [![Email](https://img.shields.io/badge/Email-8ogdanow%40gmail.com-green)](mailto:8ogdanow@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-bogdanovvad1m-green)](https://t.me/bogdanovvad1m) [![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
 
 <!--
 **vadym4che/vadym4che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 
 <!-- ![Vadym4che's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadym4che&show_icons=true&theme=synthwave) -->
 
-[![DigitalCV](./cover.png)](https://vadym4che.github.io)
+[![DigitalCV](./cover.png)](https://bogdanovvad1m.github.io)
