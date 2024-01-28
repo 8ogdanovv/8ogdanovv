@@ -4,7 +4,7 @@
 <img src="./code.gif" alt="Stand With Ukraine">
 </a>
 <!-- <h1 style="background-image: './cover.png';">
-Hi there 👋! I am <a href="https://vadym4che.github.io">Vadym Chervoniak</a>
+Hi there 👋! I am <a href="https://8ogdanovv.github.io">Bogdanov Vadim</a>
 </h1> -->
 </div>
 
@@ -35,7 +35,7 @@ I am deeply dedicated to creating user-friendly web applications and continually
 </div>
 <br>
 <div align="center">
-<a href="https://vadym4che.github.io"><img alt="my own CH logo" src="./logo.png"></a>  
+<a href="https://8ogdanovv.github.io"><img alt="my own CH logo" src="./logo.png"></a>  
 </div>
 <br>
 <div align="center"><i>I've earned my own very first PC</i></div>  
@@ -47,10 +47,10 @@ I am deeply dedicated to creating user-friendly web applications and continually
 
 <hr>
 
-[![CV](https://img.shields.io/badge/CV-8ogdanovv-green)](https://bit.ly/2pdfCV)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-vadym4che-green)](https://www.linkedin.com/in/vadym4che/) --><!-- [![Facebook](https://img.shields.io/badge/Facebook-vadym4che-green)](https://www.facebook.com/vadym4che/) --> [![Email](https://img.shields.io/badge/Email-8ogdanow%40gmail.com-green)](mailto:8ogdanow@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-bogdanovvad1m-green)](https://t.me/bogdanovvad1m) [![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
+[![CV](https://img.shields.io/badge/CV-8ogdanovv-green)](https://bit.ly/2pdfCV)<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-bogdanovvad1m-green)](https://www.linkedin.com/in/bogdanovvad1m/) --><!-- [![Facebook](https://img.shields.io/badge/Facebook-bogdanovvad1m-green)](https://www.facebook.com/bogdanovvad1m/) --> [![Email](https://img.shields.io/badge/Email-8ogdanow%40gmail.com-green)](mailto:8ogdanow@gmail.com) [![Telegram](https://img.shields.io/badge/Telegram-bogdanovvad1m-green)](https://t.me/bogdanovvad1m) [![Phone](https://img.shields.io/badge/Phone-%2B380505444199-green)](tel:+380505444199)
 
 <!--
-**vadym4che/vadym4che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**8ogdanovv/8ogdanovv* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 <hr>
 
 
-<!-- ![Vadym4che's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadym4che&show_icons=true&theme=synthwave) -->
+<!-- ![8ogdanovv's GitHub stats](https://github-readme-stats.vercel.app/api?username=8ogdanovv&show_icons=true&theme=synthwave) -->
 
 [![DigitalCV](./cover.png)](https://bogdanovvad1m.github.io)
